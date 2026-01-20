@@ -152,6 +152,6 @@ https://mumbaihouserentprediction.streamlit.app/
 
 <img width="791" height="836" alt="image" src="https://github.com/user-attachments/assets/3c0e1726-78f2-42df-9960-6e85e8dbf1b2" />
 
-
+---
 
 
